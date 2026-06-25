@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: rgb(232, 225, 214);
+}
+.navbar{
+    background-color: rgb(214, 230, 205);
+}
+
+.navbar-toggler-icon{background-color: rgb(208, 200, 216);
+border-radius: 20%;}
+
+.progress{margin-top: 20px; width: 80%; margin-left: auto; margin-right: auto; text-align: center;}
+
+.ww{margin-top: 20px; width: 80%; margin-left: auto; margin-right: auto; text-align: center;}
+
+ul{text-align: left;width: 80%;margin-left: auto; margin-right: auto; text-align: center;}
+
+.pp{margin-top: 530px;}
+
+.aa{width: 230px; }
+
+.card{font-size: large;}
